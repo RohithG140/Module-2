@@ -27,9 +27,13 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 ---
 
 ## 🧪 Program
-Add Code Here
+Thus,the Python program that defines a lambda function which takes two arguments a and b, and returns their sum is created successfully.
+
 
 ## Sample Output
+<img width="544" height="618" alt="image" src="https://github.com/user-attachments/assets/941b5b7f-5091-4ac8-8ad0-373732000fa7" />
 
 ## Result
+
+Thus,the Python program that generates Pascal's Triangle using numbers. The number of rows is accepted from the user is created successfully.
 
